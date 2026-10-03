@@ -1,4 +1,8 @@
-Lecture 4: Write your **FIRST** Java Program ## Functions (Methods) in Java What: A block of code designed to perform a single, specific task (e.g., adding two numbers).
+Lecture 4: Write your **FIRST** Java Program 
+
+## Functions (Methods) in Java 
+
+What: A block of code designed to perform a single, specific task (e.g., adding two numbers).
 
 Why: Takes inputs, processes them, and returns an output, making code reusable and organized.
 
